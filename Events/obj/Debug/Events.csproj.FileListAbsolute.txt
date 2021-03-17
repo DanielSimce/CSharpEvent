@@ -1,0 +1,6 @@
+C:\Users\Daniel\source\repos\Events\Events\bin\Debug\Events.exe.config
+C:\Users\Daniel\source\repos\Events\Events\bin\Debug\Events.exe
+C:\Users\Daniel\source\repos\Events\Events\bin\Debug\Events.pdb
+C:\Users\Daniel\source\repos\Events\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Events\Events\obj\Debug\Events.exe
+C:\Users\Daniel\source\repos\Events\Events\obj\Debug\Events.pdb
